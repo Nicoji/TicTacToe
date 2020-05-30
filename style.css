@@ -1,6 +1,6 @@
 /* HTML tags : */
 body {
-    background-color: rgb(33, 88, 124);
+    background-color: #21587c;
 }
 
 h1 {
@@ -17,33 +17,33 @@ button {
     padding: 5px;
     width: 80px;
     border-radius: 10px;
-    border: 2px solid rgb(78, 55, 38);
-    background-color: burlywood;
-    color: rgb(78, 55, 38);
+    border: 2px solid #4e3726;
+    background-color: #deb887;
+    color: #4e3726;
     cursor: pointer;
 }
 
 /* h1 colors : */
 .color1 {
-    color: rgb(78, 55, 38);
+    color: #4e3726;
 }
 
 .color2 {
-    color: burlywood;
+    color: #deb887;
 }
 
 /* Put borders to seperate each cell : */
 .firstLign, .secondLign {
-    border-bottom: 8px solid rgb(33, 88, 124);
+    border-bottom: 8px solid #21587c;
 }
 
 .cell-0, .cell-1, .cell-3, .cell-4, .cell-6, .cell-7 {
-    border-right: 8px solid rgb(33, 88, 124);
+    border-right: 8px solid #21587c;
 }
 
 /* Color cell when there is a winner */
 .winner-cells {
-    background-color: forestgreen;
+    background-color: #228b22;
 }
 
 .container {
@@ -51,7 +51,7 @@ button {
     height: 630px;
     border: 1px solid;
     margin: auto;
-    background-color: steelblue;
+    background-color: #4682b4;
     border-radius: 20px;
     margin-top: 50px;
 }
@@ -65,7 +65,7 @@ button {
 .declaration {
     text-align: center;
     font-size: 30px;
-    color: burlywood;
+    color: #deb887;
 }
 
 .firstLign, .secondLign, .thirdLign {
@@ -83,12 +83,12 @@ button {
 
 .x {
     font-size: 150px;
-    color:rgb(78, 55, 38);
+    color:#4e3726;
 }
 
 .o {
     font-size: 150px;
-    color: burlywood;
+    color: #deb887;
 }
 
 .o, .x {
