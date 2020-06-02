@@ -33,7 +33,7 @@ button {
 }
 
 /* Put borders to seperate each cell : */
-.firstLign, .secondLign {
+.firstLine, .secondLine {
     border-bottom: 8px solid #21587c;
 }
 
@@ -68,7 +68,7 @@ button {
     color: #deb887;
 }
 
-.firstLign, .secondLign, .thirdLign {
+.firstLine, .secondLine, .thirdLine {
     display: flex;
     width: 100%;
     height: 130px;
